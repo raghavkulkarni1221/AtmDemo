@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AtmDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/AtmDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AtmDemo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AtmDemo.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1612855907/AtmDemo.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1612855907/AtmDemo.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1032737731/AtmDemo.react-native-community_netinfo.iml" filepath="$PROJECT_DIR$/.idea/modules/-1032737731/AtmDemo.react-native-community_netinfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/295193822/AtmDemo.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/295193822/AtmDemo.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/864789959/AtmDemo.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/864789959/AtmDemo.react-native-safe-area-context.iml" />
+    </modules>
+  </component>
+</project>
